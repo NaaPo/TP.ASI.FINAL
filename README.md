@@ -1,0 +1,1 @@
+Presentación estática. Abrir index.html localmente o subir esta carpeta a un repositorio GitHub e importarlo en Vercel como proyecto Other, sin comando de build.
